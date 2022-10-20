@@ -8,5 +8,6 @@ This package includes:
 ... and fully developed Advanced Terrain!
 
 Tutorials:
-1. https://drive.google.com/file/d/1CqqacSfRzDlYZi6nAJhABsQEz-tabnFu/view
-2. https://drive.google.com/file/d/1AhwcKMD669Pm8oLqShdTD9i4v8DKesrl/view
+1. https://drive.google.com/file/d/1AhwcKMD669Pm8oLqShdTD9i4v8DKesrl/view
+2. https://drive.google.com/file/d/1nXT34RmMU41HXEJJkP0Bp__AYRE8IfkE/view
+
